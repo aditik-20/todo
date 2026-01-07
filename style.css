@@ -1,1 +1,80 @@
-document.getELe
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background: #fef6e4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.container {
+  background: linear-gradient(135deg, #c77dff, #9d4edd);
+  width: 360px;
+  padding: 25px;
+  border-radius: 25px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+button {
+  background: #240046;
+  border: none;
+  border-radius: 15px;
+  padding: 12px 15px;
+  cursor: pointer;
+  color: white;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background: #3c096c;
+  transform: scale(1.05);
+}
+li {
+  background: #fff;
+  padding: 10px 15px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+input {
+  width: 100%;
+  padding: 12px 15px;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+li button {
+  background: #ff5d8f;
+  padding: 6px 10px;
+  font-size: 12px;
+  border-radius: 10px;
+}
+
+li button:hover {
+  background: #ff006e;
+}
+
+.addcontainer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 15px;
+}
