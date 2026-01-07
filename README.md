@@ -17,7 +17,7 @@ Keep track of your tasks quickly and easily, with tasks saved in your browser us
 
 ## 🛠️ Technologies Used
 
--HTML5
--CSS3
--JavaScript (Vanilla JS)
--Local Storage API
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Local Storage API
