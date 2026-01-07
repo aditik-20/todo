@@ -15,7 +15,7 @@ Keep track of your tasks quickly and easily, with tasks saved in your browser us
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 -HTML5
 -CSS3
